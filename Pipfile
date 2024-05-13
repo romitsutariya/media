@@ -10,6 +10,15 @@ langchain = "*"
 langchain-openai = "*"
 faiss-cpu = "*"
 tiktoken = "*"
+langchain-community = "*"
+pypdf = "*"
+pypdf2 = "*"
+tabulate = "*"
+pandas = "*"
+chromadb = "*"
+langchainhub = "*"
+langchain-chroma = "*"
+bs4 = "*"
 
 [dev-packages]
 
